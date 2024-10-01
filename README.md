@@ -1,13 +1,15 @@
-# Insert *your project title* here
-Write a detailed description about your project - eg: instructions on how to get started, common issues, etc.
+# EVCS Placement
+A repository containing code for optimal placements of Electric Vehicle Charging Stations (EVCS) - with a geographical focus on Ireland : TCD MAI Project.
 
-# Contributing to *your project title*
-Hello and welcome! We are so glad that you are interested in contributing to *your project title*!
+# Contributing to EVCS Placement
+Hello and welcome! We are so glad that you are interested in contributing to EVCS-Placement!
 We only have a couple of rules and we hope you enjoy the process :)
 
 ## Contributing Rules
 1. Don't move or delete any files. Only modify them.
-2. Add additional rules as per *your project title*.
+2. All data used in the study will be found in the Data folder.
+3. All code used in the study will be found in the Code folder.
+4. The developed model will be found in the Model folder.
 
 ## Contributing Process
 1. Fork the repository
