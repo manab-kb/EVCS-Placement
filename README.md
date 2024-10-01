@@ -1,5 +1,5 @@
 # EVCS Placement
-A repository containing code for optimal placements of Electric Vehicle Charging Stations (EVCS) - with a geographical focus on Ireland : TCD MAI Project.
+A repository containing code for optimal placements of Electric Vehicle Charging Stations (EVCS) - with a geographical focus on Ireland.
 
 # Contributing to EVCS Placement
 Hello and welcome! We are so glad that you are interested in contributing to EVCS-Placement!
@@ -24,3 +24,6 @@ We only have a couple of rules and we hope you enjoy the process :)
 10. Submit Pull Request
 
 It's that easy! We hope you enjoy contributing to our repository. Don't hesitate to contact any of the maintainers about any problems!
+
+---
+### TCD MAI PROJECT 2024-25
