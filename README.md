@@ -7,9 +7,9 @@ We only have a couple of rules and we hope you enjoy the process :)
 
 ## Contributing Rules
 1. Don't move or delete any files. Only modify them.
-2. All data used in the study will be found in the Data folder.
-3. All code used in the study will be found in the Code folder.
-4. The developed model will be found in the Model folder.
+2. All data used in the study will be found in the [Data](https://github.com/manab-kb/EVCS-Placement/tree/main/Data) folder.
+3. All code used in the study will be found in the [Code](https://github.com/manab-kb/EVCS-Placement/tree/main/Code) folder.
+4. The developed model will be found in the [Model](https://github.com/manab-kb/EVCS-Placement/tree/main/Model) folder.
 
 ## Contributing Process
 1. Fork the repository
