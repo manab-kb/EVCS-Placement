@@ -1,6 +1,8 @@
 # EVCS Placement
 A repository containing code for optimal placements of Electric Vehicle Charging Stations (EVCS) - with a geographical focus on Ireland.
 
+<img width=100% alt="Screenshot 2025-06-23 at 08 35 55" src="https://github.com/user-attachments/assets/f7310e33-8ee0-42bc-ac6c-a40c39751fa3" />
+
 # Contributing to EVCS Placement
 Hello and welcome! We are so glad that you are interested in contributing to EVCS-Placement!
 We only have a couple of rules and we hope you enjoy the process :)
